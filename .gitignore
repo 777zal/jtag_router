@@ -1,0 +1,8 @@
+/jtag_distribution-backups
+/bomcpl
+/gbr
+*.zip
+fp-info-cache
+*.lck
+*.kicad_prl
+*.txt
